@@ -7,7 +7,7 @@
     },
     "files": [
         "README.md",
-        "kn-autotile.ts",
+        "kn_autotile.ts",
     ],
     "testFiles": [
     ],
