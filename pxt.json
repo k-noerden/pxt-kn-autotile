@@ -1,0 +1,19 @@
+{
+    "name": "pxt-kn-autotile",
+    "version": "0.0.0",
+    "description": "A MakeCode Arcade library to automatically tile tilemaps",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "README.md",
+        "kn-autotile.ts",
+    ],
+    "testFiles": [
+    ],
+    "public": true,
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
